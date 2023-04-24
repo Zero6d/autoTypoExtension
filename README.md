@@ -2,8 +2,8 @@ just ctrl shift p and find Auto Fill Typography
 
 example
 
-# <Typography>cat > dog</Typography>
+ <p><Typography>cat > dog</Typography></p>
 
 =>
 
-# <Typography>{i18n.t('README_1')}</Typography>
+ <p><Typography>{i18n.t('README_1')}</Typography></p>
