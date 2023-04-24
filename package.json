@@ -1,9 +1,9 @@
 {
   "name": "agileAutoI18n",
   "displayName": "Agile auto i18n",
-  "description": "auto fill class name + _1 _2 _3 if tag is <Typography>",
+  "description": "auto fill file name + _1 _2 _3 if tag is <Typography>",
   "publisher": "vuhieuvpz",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.77.0"
   },
